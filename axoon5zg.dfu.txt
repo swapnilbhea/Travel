@@ -1,0 +1,6 @@
+This was the message
+#
+# Write a tag message
+# Lines starting with '#' will be ignored.
+#
+

@@ -1,0 +1,6 @@
+Version 1.1 by Swapnil
+#
+# Write a tag message
+# Lines starting with '#' will be ignored.
+#
+
